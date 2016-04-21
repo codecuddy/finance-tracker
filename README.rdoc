@@ -1,3 +1,7 @@
+This is a prototype app that allows users to track stocks and have a social media aspect so they can interact with friends who are also tracking stocks. 
+
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
